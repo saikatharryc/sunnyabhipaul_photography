@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="fb3a7096-8a0c-44c7-9051-3d56f18ab576" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/views/photo/Photography.php" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/application/views/welcome_message.php" afterPath="" />
-    </list>
+    <list default="true" id="fb3a7096-8a0c-44c7-9051-3d56f18ab576" name="Default" comment="" />
     <ignored path="sunnyabhipaul_photography.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path=".idea/dataSources.local.xml" />
@@ -330,7 +327,7 @@
       <workItem from="1471873024133" duration="58000" />
       <workItem from="1471873106333" duration="1285000" />
       <workItem from="1472125619694" duration="60000" />
-      <workItem from="1472445290857" duration="977000" />
+      <workItem from="1472445290857" duration="1296000" />
     </task>
     <task id="LOCAL-00001" summary="updated welcome message .user_guide problem removed">
       <created>1471840412983</created>
@@ -371,7 +368,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3717000" />
+    <option name="totallyTimeSpent" value="4036000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="10" y="20" width="1346" height="728" extended-state="0" />
